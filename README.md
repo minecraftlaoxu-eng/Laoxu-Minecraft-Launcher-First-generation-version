@@ -1,6 +1,6 @@
 # Laoxu Minecraft Launcher
 
-基于 Fold Craft Launcher 的 Android Minecraft 启动器，支持 Java 版多版本启动、JDK 8/17/21/25，以及 Bedrock 版 APK 检测与启动。
+Android Minecraft 启动器，支持 Java 版多版本启动、JDK 8/17/21/25，以及 Bedrock 版 APK 检测与启动。
 
 ## 功能
 - Java 版 Minecraft 自动下载 & 启动
@@ -17,6 +17,7 @@
 
 ## 参与贡献
 欢迎提交 **Issue** 或 **Pull Request** 来修复 bug、优化 UI、增加功能。
+作者没法测试，所以让大家来测试或提供代码
 
 ## 许可证
 GPL-2.0
