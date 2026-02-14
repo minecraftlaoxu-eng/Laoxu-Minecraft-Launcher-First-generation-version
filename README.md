@@ -1,16 +1,22 @@
-# Laoxu-Minecraft-Launcher-First-generation-version
-这是个初代版本
+# Laoxu Minecraft Launcher
 
+基于 Fold Craft Launcher 的 Android Minecraft 启动器，支持 Java 版多版本启动、JDK 8/17/21/25，以及 Bedrock 版 APK 检测与启动。
 
+## 功能
+- Java 版 Minecraft 自动下载 & 启动
+- 多版本支持：1.0~1.21，Beta、Alpha、Infdev、Indev、Classic、Pre-Classic
+- Bedrock 版 APK 检测 & 启动
+- Compose UI，支持主页、版本页、关于页
+- 支持多 JDK 管理（8 / 17 / 21 / 25）
+- 用户缓存 & 配置统一管理
 
+## 安装
+1. 下载 APK 或从 Android Studio 构建
+2. 启动 Laoxu Minecraft Launcher
+3. 选择 Java 或 Bedrock 版本启动
 
-        Laoxu Minecraft Launcher 是个刚刚来的启动器，
-        是老徐自己编程的启动器，它的本质是为了在 Android 端运行 Minecraft。
-        
-        同时，老徐还给启动器添加了基岩版的检测功能，
-        能让大家在不翻找的情况下启动基岩版。
-        
-        如果你给 Laoxu Minecraft Launcher 赞助，
-        老徐会很感激并把你写在赞助者列表里。
-        
-        老徐时刻会接受玩家们的热情！
+## 参与贡献
+欢迎提交 **Issue** 或 **Pull Request** 来修复 bug、优化 UI、增加功能。
+
+## 许可证
+GPL-2.0
